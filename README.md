@@ -1,2 +1,2 @@
 # Fusion-Algorithm-For-Underwater-Image-Enhancement
-Fusion algorithm for enhancing the qualities of underwater images
+Fusion algorithm is a combination of Color Balance, Contrast Enhancement, Histogram Stretching to improve the quality the degraded underwater images.
